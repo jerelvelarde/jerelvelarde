@@ -16,11 +16,11 @@ From leading teams in large organizations to leading agents and delivering impac
 
 Open-source projects I've helped build with CopilotKit, recognized on Trendshift.
 
-| [OpenMuse](https://github.com/CopilotKit/openmuse) | [OpenBot](https://github.com/CopilotKit/OpenBot) |
+| [OpenMuse](https://github.com/CopilotKit/openmuse) | [OpenDots](https://github.com/CopilotKit/OpenDots) |
 | :---: | :---: |
-| <a href="https://trendshift.io/repositories/254992"><img src="https://trendshift.io/api/badge/trendshift/repositories/254992/daily?language=TypeScript" alt="OpenMuse on Trendshift — TypeScript daily ranking" width="300" height="66" /></a> | <a href="https://trendshift.io/repositories/175080"><img src="https://trendshift.io/api/badge/trendshift/repositories/175080/daily?language=TypeScript" alt="OpenBot on Trendshift — TypeScript daily ranking" width="300" height="66" /></a> |
-| **[OpenDots](https://github.com/CopilotKit/OpenDots)** | **[OpenTag](https://github.com/CopilotKit/OpenTag)** |
-| <a href="https://trendshift.io/repositories/275323"><img src="https://trendshift.io/api/badge/trendshift/repositories/275323/daily?language=TypeScript" alt="OpenDots on Trendshift — TypeScript daily ranking" width="300" height="66" /></a> | <a href="https://trendshift.io/repositories/65816"><img src="https://trendshift.io/api/badge/trendshift/repositories/65816/daily?language=TypeScript" alt="OpenTag on Trendshift — TypeScript daily ranking" width="300" height="66" /></a> |
+| <a href="https://trendshift.io/repositories/254992"><img src="https://trendshift.io/api/badge/trendshift/repositories/254992/daily?language=TypeScript" alt="OpenMuse on Trendshift — TypeScript daily ranking" width="300" height="66" /></a> | <a href="https://trendshift.io/repositories/275323"><img src="https://trendshift.io/api/badge/trendshift/repositories/275323/daily?language=TypeScript" alt="OpenDots on Trendshift — TypeScript daily ranking" width="300" height="66" /></a> |
+| **[OpenTag](https://github.com/CopilotKit/OpenTag)** | **[OpenBot](https://github.com/CopilotKit/OpenBot)** |
+| <a href="https://trendshift.io/repositories/65816"><img src="https://trendshift.io/api/badge/trendshift/repositories/65816/daily?language=TypeScript" alt="OpenTag on Trendshift — TypeScript daily ranking" width="300" height="66" /></a> | <a href="https://trendshift.io/repositories/175080"><img src="https://trendshift.io/api/badge/trendshift/repositories/175080/daily?language=TypeScript" alt="OpenBot on Trendshift — TypeScript daily ranking" width="300" height="66" /></a> |
 
 <sub>Live Trendshift badges in the TypeScript category. Each badge links to its source; recognition belongs to the shared project.</sub>
 
@@ -38,17 +38,17 @@ I built the initial version in a day, then developed the workspace around specia
 
 [Case study](https://jerelvelarde.com/work/opendots) · [Example contribution: initial workspace](https://github.com/CopilotKit/OpenDots/pull/1)
 
+### [OpenTag](https://github.com/CopilotKit/OpenTag) — a project I started to bring agents into team chat
+
+I started OpenTag to bring AI agents into the channels where teams already work. I continued building it into a reusable starter for Slack and Teams, with Channels SDK integration, a research backend, readable approvals for external writes, and developer onboarding. My work connects the initial idea to an experience people can understand and a setup developers can build on.
+
+[Case study: starting and building OpenTag](https://jerelvelarde.com/work/opentag) · [Example contribution: readable approvals](https://github.com/CopilotKit/OpenTag/pull/19)
+
 ### [OpenBot](https://github.com/CopilotKit/OpenBot) — agents people can direct and supervise
 
 I extended the existing platform with action-specific approvals, queued corrections, repetition detection, and recovery from stalled runs. I also worked on creating skills and coworkers through conversation, alongside an internal deployment.
 
 [Case study](https://jerelvelarde.com/work/openbot) · [Example contribution: human approvals](https://github.com/CopilotKit/OpenBot/pull/15)
-
-### [OpenTag](https://github.com/CopilotKit/OpenTag) — agents in the channels where teams work
-
-I worked on the Channels SDK integration, a research backend, readable approvals for external writes, and developer onboarding for Slack and Teams. The focus: make agent actions understandable and give developers a working path from setup to a first reply.
-
-[Case study](https://jerelvelarde.com/work/opentag) · [Example contribution: readable approvals](https://github.com/CopilotKit/OpenTag/pull/19)
 
 ### [OpenGenerativeUI](https://github.com/CopilotKit/OpenGenerativeUI) — answers you can interact with
 
