@@ -1,118 +1,105 @@
-# 👋 Hi, I'm Jerel Velarde
+# Hi, I'm Jerel Velarde
 
-## 🧠 Staff Applied AI Engineer | Fractional Chief AI Officer
+## I build AI products that people love.
 
-I'm a Staff Applied AI Engineer and Fractional Chief AI Officer based in San Francisco, building Chalkagents.com an agent management platform. I'm passionate about building meaningful AI-driven products that create impact at scale. My journey spans 9 years of product strategy and artificial intelligence, recognized as a LinkedIn Top Voice for Product Management in 2023 and honored as one of the Top 100 Brightest Minds Under 30 in the Philippines.
+I'm an independent **Staff Applied AI Engineer and product builder**. I help teams turn an early idea into an AI product people can use: shaping the experience, building the system, and bringing it to launch.
 
-**Open to AI engineering contracts, fractional product leadership, and advisory roles.**
+From leading teams in large organizations to leading agents and delivering impact. My work spans product strategy, hands-on engineering, and the demos and storytelling that help people understand a new product.
 
-📧 [jereljohnvelarde@gmail.com](mailto:jereljohnvelarde@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/jereljohnvelarde/) · 🔗 [Portfolio](https://bit.ly/Jerelvelarde)
+**CopilotKit is a current client. I'm available for new AI engineering projects, fractional product leadership, and advisory work.**
 
----
+🇺🇸 **US** · 🇵🇭 **PH** · Working across borders
 
-### 💡 What I Do
+[Work with me](https://jerelvelarde.com/work-with-me) · [Portfolio](https://jerelvelarde.com) · [LinkedIn](https://www.linkedin.com/in/jereljohnvelarde/) · [Email](mailto:jereljohnvelarde@gmail.com)
 
-- 🔬 **Applied AI Engineering** – Designing and deploying AI systems that solve real-world problems at scale
-- 🤖 **AI Product Strategy** – Owning the full product lifecycle from vision to deployment, turning AI capabilities into shipped products
-- 🚀 **Product Leadership** – Aligning AI product development with strategic business goals and driving growth
+## Built in public. Picked up by the world.
 
----
+Open-source projects I've helped build with CopilotKit, recognized on Trendshift.
 
-### 🏆 Recognition & Leadership
+| [OpenMuse](https://github.com/CopilotKit/openmuse) | [OpenBot](https://github.com/CopilotKit/OpenBot) |
+| :---: | :---: |
+| <a href="https://trendshift.io/repositories/254992"><img src="https://trendshift.io/api/badge/trendshift/repositories/254992/daily?language=TypeScript" alt="OpenMuse on Trendshift — TypeScript daily ranking" width="300" height="66" /></a> | <a href="https://trendshift.io/repositories/175080"><img src="https://trendshift.io/api/badge/trendshift/repositories/175080/daily?language=TypeScript" alt="OpenBot on Trendshift — TypeScript daily ranking" width="300" height="66" /></a> |
+| **[OpenDots](https://github.com/CopilotKit/OpenDots)** | **[OpenTag](https://github.com/CopilotKit/OpenTag)** |
+| <a href="https://trendshift.io/repositories/275323"><img src="https://trendshift.io/api/badge/trendshift/repositories/275323/daily?language=TypeScript" alt="OpenDots on Trendshift — TypeScript daily ranking" width="300" height="66" /></a> | <a href="https://trendshift.io/repositories/65816"><img src="https://trendshift.io/api/badge/trendshift/repositories/65816/daily?language=TypeScript" alt="OpenTag on Trendshift — TypeScript daily ranking" width="300" height="66" /></a> |
 
-- 🌟 **LinkedIn Top Voice** for Product Management (2023)
-- 🏅 **Top 100 Brightest Minds Under 30** in the Philippines by Stellar PH
-- 🏢 **Product Leader** at $30M startup (Previously)
-- 🇺🇸 **Director of Product Management** at a U.S.-based Venture Studio (Previously)
-- 🌍 **Founder** of [AI Cebu Community](https://www.facebook.com/aipilipinascebu/) – promoting AI job-readiness for Filipinos
+<sub>Live Trendshift badges in the TypeScript category. Each badge links to its source; recognition belongs to the shared project.</sub>
 
----
+## Selected work
 
-### 💼 Professional Experience
+### [OpenMuse](https://github.com/CopilotKit/openmuse) — a personal agent with a computer of its own
 
-- **[Chalk Agents](https://chalkagents.com)** – _Founder & AI Engineer_ (Current)
-  - Building an agent management platform for deploying and managing AI agents at scale
-- **[Full Scale Ventures](https://fullscale.ventures)** – _Director of Product Management_
-  - Led product strategy for a Venture Studio, shipping 2 AI startups from 0-to-1
-- **[MultiplAI AI Agents](https://rea.pro/)** – _Director of Product Management, Startup Portfolio_
-  - Building AI agents and crew to automate workplace tasks
-- **[InterviewRoom.ai](https://interviewroom.ai)** – _Director of Product Management, Startup Portfolio_
-  - Shipped an AI-powered interview platform that cuts hiring costs and accelerates time-to-hire
-  - Deep candidate insights, personality scores, and dynamic follow-up prompts for live and recorded interviews
+I built the initial version solo in roughly a day, drafted the mascot and marketing, and worked on video direction. I continued developing the browser interactions, persistent sessions, and sourced comparison cards that make the agent's work visible and useful across mobile and web.
 
----
+[Case study](https://jerelvelarde.com/work/openmuse) · [Example contribution: browser interactions](https://github.com/CopilotKit/openmuse/pull/2)
 
-### 🤝 Companies I've Worked With in Open Source
+### [OpenDots](https://github.com/CopilotKit/OpenDots) — AI coworkers across text, calls, and Slack
 
-![CopilotKit](https://img.shields.io/badge/CopilotKit-000000?style=for-the-badge)
-![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+I built the initial version in a day, then developed the workspace around specialist conversations, persistent documents, and visible computer work. My contributions include inline browser previews, file and terminal results, per-agent learning contexts, realtime call controls, and launch support.
 
----
+[Case study](https://jerelvelarde.com/work/opendots) · [Example contribution: initial workspace](https://github.com/CopilotKit/OpenDots/pull/1)
 
-### 🚀 Recent Projects
+### [OpenBot](https://github.com/CopilotKit/OpenBot) — agents people can direct and supervise
 
-- **[Open Generative UI](https://github.com/CopilotKit/OpenGenerativeUI)** ⭐ 1000+ stars – Open-source framework for building interactive, AI-generated visual interfaces using CopilotKit and LangGraph. Rebuilt Anthropic's visualization tool in under 4 hours and shipped it as an open-source project featuring algorithm visualizations, 3D animations, data charts, and interactive components rendered as live HTML/SVG
-- **[Chalk Agents](https://chalkagents.com)** – Agent management platform for building, deploying, and managing AI agents at scale
-- **[Chalk Skills](https://github.com/GeneralJerel/chalk-skills)** – Structured markdown instructions that AI agents read at runtime, powering capabilities like documentation bootstrapping, plan creation, and style transfer for Chalk-managed projects
-- **[ClawUI Kit](https://github.com/GeneralJerel/clawuikit)** – Starter kit for building AI-powered apps with CopilotKit and OpenClaw integration, supporting standalone, remote agent, and hybrid modes with @mention-based agent switching
-- **[ChiefClaw](https://github.com/GeneralJerel/chiefclaw)** – Autonomous AI Chief of Staff for freelancers, handling inbox management, calendar scheduling, invoice tracking, and daily briefings via CopilotKit and the AG-UI protocol
-- **[with-agent-spec](https://github.com/GeneralJerel/with-agent-spec)** – Starter template combining Next.js and FastAPI for building AI agents using Agent Spec, with AG-UI streaming and A2UI generative UI rendering for interactive dashboards
+I extended the existing platform with action-specific approvals, queued corrections, repetition detection, and recovery from stalled runs. I also worked on creating skills and coworkers through conversation, alongside an internal deployment.
 
----
+[Case study](https://jerelvelarde.com/work/openbot) · [Example contribution: human approvals](https://github.com/CopilotKit/OpenBot/pull/15)
 
-### 🎓 Education
+### [OpenTag](https://github.com/CopilotKit/OpenTag) — agents in the channels where teams work
 
-- 🏫 **Asian Institute of Management** — Post Graduate Diploma, Artificial Intelligence and Machine Learning
+I worked on the Channels SDK integration, a research backend, readable approvals for external writes, and developer onboarding for Slack and Teams. The focus: make agent actions understandable and give developers a working path from setup to a first reply.
 
----
+[Case study](https://jerelvelarde.com/work/opentag) · [Example contribution: readable approvals](https://github.com/CopilotKit/OpenTag/pull/19)
 
-### 🧰 Tech Stack
+### [OpenGenerativeUI](https://github.com/CopilotKit/OpenGenerativeUI) — answers you can interact with
 
-#### 🐍 Languages
+I worked on rich, agent-generated interfaces: interactive visualizations, charts, and 3D experiences. The project explores how agents can respond with useful interfaces alongside text.
 
-![Language Agnostic](https://img.shields.io/badge/Language_Agnostic-555555?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+[Case study](https://jerelvelarde.com/work/opengenerativeui)
 
-#### 🤖 AI & Agents
+## What I can help you ship
 
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google ADK](https://img.shields.io/badge/Google_ADK-34A853?style=for-the-badge&logo=google&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![CopilotKit](https://img.shields.io/badge/CopilotKit-000000?style=for-the-badge)
-![AG--UI](https://img.shields.io/badge/AG--UI-4A90D9?style=for-the-badge)
-![A2UI](https://img.shields.io/badge/A2UI-34A853?style=for-the-badge&logo=google&logoColor=white)
-![AgentSpec](https://img.shields.io/badge/AgentSpec-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Bedrock AgentCore](https://img.shields.io/badge/AWS_Bedrock_AgentCore-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-1A73E8?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Vapi](https://img.shields.io/badge/Vapi_AI-000000?style=for-the-badge)
+- **An AI product from idea to launch.** Product direction, a working prototype, implementation, and a clear demo.
+- **Agents inside your product.** Tool use, persistent context, human approvals, and interfaces that show what the agent is doing.
+- **Developer tools people can adopt.** Reference applications, integrations, onboarding, and examples.
+- **Product and technical leadership.** Turning an ambiguous opportunity into a focused roadmap and coordinating the work to deliver it.
 
-#### ⚛️ Frontend & Desktop
+## Founder projects
 
-![Framework Agnostic](https://img.shields.io/badge/Framework_Agnostic-555555?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- **[Folderbase](https://folderbase.ai)** — shared files and durable context for humans and agents working together.
+- **[Chalk Agents](https://chalkagents.com)** — tools for testing, reviewing, and coordinating AI agent work.
 
-#### ☁️ Cloud & Infrastructure
+<details>
+<summary>More open-source experiments and starter kits</summary>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- [Chalk Skills](https://github.com/GeneralJerel/chalk-skills) — reusable instructions for agent workflows.
+- [ClawUI Kit](https://github.com/GeneralJerel/clawuikit) — a starter kit for CopilotKit and OpenClaw applications.
+- [ChiefClaw](https://github.com/GeneralJerel/chiefclaw) — an AI chief-of-staff experiment for freelancers.
+- [with-agent-spec](https://github.com/GeneralJerel/with-agent-spec) — a Next.js and FastAPI starter with Agent Spec, AG-UI, and A2UI.
+
+</details>
+
+## On stage and in the community
+
+I've spoken on stage at **Google events more than 10 times**, including **VibeCore at Google Mountain View**, as well as developer conferences, university events, and team workshops. I share practical lessons from building AI products, leading teams, and working with agents.
+
+I also founded the [AI Cebu Community](https://www.facebook.com/aipilipinascebu/) to help Filipinos develop practical AI skills.
+
+[Talks and event archive](https://jerelvelarde.com/talks)
+
+## Background
+
+Previously, I led product at **Full Scale Ventures**, helping ship two AI startups from zero to one, with work spanning **MultiplAI** and **InterviewRoom.ai**.
+
+- LinkedIn Top Voice for Product Management, 2023.
+- Named among the Top 100 Brightest Minds Under 30 in the Philippines by Stellar PH.
+- Post Graduate Diploma in Artificial Intelligence and Machine Learning, Asian Institute of Management.
+
+## Tools I work with
+
+**TypeScript, Python, React, Next.js, and Electron** · **CopilotKit, AG-UI, A2UI, LangGraph, and MCP** · **OpenAI, Anthropic, and Gemini** · **Docker, AWS, Google Cloud, and Firebase**
+
+I choose the stack around the product and the team.
 
 ---
 
-### 📈 GitHub Activity
-
-![GeneralJerel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeneralJerel&show_icons=true&theme=github_dark&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeneralJerel&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeneralJerel&layout=compact&theme=github_dark&hide_border=true)
+**Have an AI product to build or improve?** [Tell me about it →](https://jerelvelarde.com/work-with-me)
