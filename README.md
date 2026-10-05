@@ -38,11 +38,11 @@ I built the initial version in a day, then developed the workspace around specia
 
 [Case study](https://jerelvelarde.com/work/opendots) · [Example contribution: initial workspace](https://github.com/CopilotKit/OpenDots/pull/1)
 
-### [OpenTag](https://github.com/CopilotKit/OpenTag) — a project I started to bring agents into team chat
+### [OpenTag](https://github.com/CopilotKit/OpenTag) — agents in the channels where teams work
 
-I started OpenTag to bring AI agents into the channels where teams already work. I continued building it into a reusable starter for Slack and Teams, with Channels SDK integration, a research backend, readable approvals for external writes, and developer onboarding. My work connects the initial idea to an experience people can understand and a setup developers can build on.
+My work spans Channels SDK integration, a research backend, readable approvals for external writes, and developer onboarding for Slack and Teams.
 
-[Case study: starting and building OpenTag](https://jerelvelarde.com/work/opentag) · [Example contribution: readable approvals](https://github.com/CopilotKit/OpenTag/pull/19)
+[Case study](https://jerelvelarde.com/work/opentag) · [Example contribution: readable approvals](https://github.com/CopilotKit/OpenTag/pull/19)
 
 ### [OpenBot](https://github.com/CopilotKit/OpenBot) — agents people can direct and supervise
 
