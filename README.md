@@ -21,7 +21,8 @@ I build AI agents that people can use, understand, and trust. I'm an independent
 | **[Open Intelligent UI](https://github.com/CopilotKit/OpenIntelligentUI)** | Built streaming visualizations, a standalone **Model Context Protocol (MCP)** server, sandboxed UI execution, and adoption telemetry. Formerly OpenGenerativeUI. [Case study](https://jerelvelarde.com/work/opengenerativeui) |
 | **[A2UI Composer](https://a2ui.org/composer/)** | Built demos showcased at Google Cloud Next 2026. Later upstream work included the [Gemini/CopilotKit assistant](https://github.com/a2ui-project/composer/pull/215) and a [46-demo wall across Angular, Lit, and React](https://github.com/a2ui-project/composer/pull/193). |
 | **Oracle Agent Memory** | Built the CopilotKit integration/showcase and cookbook: Oracle Agent Spec, LangGraph, durable cross-session recall, and human-approved booking flows. [Code](https://github.com/CopilotKit/CopilotKit/pull/5563) · [Cookbook](https://docs.copilotkit.ai/cookbook/oracle-agent-spec-memory) |
-| **[OpenBot](https://github.com/CopilotKit/OpenBot) / [OpenDots](https://github.com/CopilotKit/OpenDots)** | Engineered [action approvals and execution recovery](https://github.com/CopilotKit/OpenBot/pull/15); built the [initial workspace](https://github.com/CopilotKit/OpenDots/pull/1) with persistent documents, revision-conflict checks, and server-enforced access. |
+| **[OpenDots](https://github.com/CopilotKit/OpenDots)** | Solo-built and released the initial version: an agent workspace with persistent documents, revision-conflict checks, and server-enforced access. [Initial implementation](https://github.com/CopilotKit/OpenDots/pull/1). |
+| **[OpenBot](https://github.com/CopilotKit/OpenBot)** | Engineered [action approvals and execution recovery](https://github.com/CopilotKit/OpenBot/pull/15), including mid-execution corrections and recovery from stalled streams. |
 | **[OpenTag](https://github.com/CopilotKit/OpenTag)** | Built a reusable Slack/Teams agent starter with a LangGraph research backend and readable approvals for external writes. [Code](https://github.com/CopilotKit/OpenTag/pull/19) · [Case study](https://jerelvelarde.com/work/opentag) |
 
 ## Product judgment, backed by operating results
@@ -58,3 +59,4 @@ At **[Chalk Agents](https://chalkagents.com)**, I build agent infrastructure, in
 ---
 
 Interested in building useful agents, developer tools, or AI products? [See my work](https://jerelvelarde.com/work) or [get in touch](https://jerelvelarde.com/work-with-me).
+
