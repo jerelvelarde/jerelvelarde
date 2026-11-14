@@ -11,13 +11,13 @@ I build AI agents that people can use, understand, and trust. I'm an independent
 
 [Portfolio](https://jerelvelarde.com/work) · [Resume (PDF)](https://jerelvelarde.com/resume) · [Resume (plain text)](https://jerelvelarde.com/resume.md) · [LinkedIn](https://www.linkedin.com/in/jereljohnvelarde/) · [Contact](mailto:jereljohnvelarde@gmail.com)
 
-<sub>Star total: 23,753 across OpenMuse, Open Intelligent UI, OpenDots, OpenBot, and OpenTag on October 24, 2026. These are shared project totals, not personal ownership or unique users. Impressions refer to project launches.</sub>
+<sub>Star total: 23,753 across OpenFuse, Open Intelligent UI, OpenDots, OpenBot, and OpenTag on October 24, 2026. These are shared project totals, not personal ownership or unique users. Impressions refer to project launches.</sub>
 
 ## Selected engineering work
 
 | Project | My contribution |
 | --- | --- |
-| **[OpenMuse](https://github.com/CopilotKit/openmuse)** | Solo-built the initial release in one day; shipped persistent browser interaction, human takeover, and generative interfaces across mobile and web. [Code](https://github.com/CopilotKit/openmuse/pull/2) · [Case study](https://jerelvelarde.com/work/openmuse) |
+| **[OpenFuse](https://github.com/CopilotKit/openfuse)** | Solo-built the initial release in one day; shipped persistent browser interaction, human takeover, and generative interfaces across mobile and web. [Code](https://github.com/CopilotKit/openfuse/pull/2) · [Case study](https://jerelvelarde.com/work/openfuse) |
 | **[Open Intelligent UI](https://github.com/CopilotKit/OpenIntelligentUI)** | Built streaming visualizations, a standalone **Model Context Protocol (MCP)** server, sandboxed UI execution, and adoption telemetry. Formerly OpenGenerativeUI. [Case study](https://jerelvelarde.com/work/opengenerativeui) |
 | **[A2UI Composer](https://a2ui.org/composer/)** | Built demos showcased at Google Cloud Next 2026. Later upstream work included the [Gemini/CopilotKit assistant](https://github.com/a2ui-project/composer/pull/215) and a [46-demo wall across Angular, Lit, and React](https://github.com/a2ui-project/composer/pull/193). |
 | **Oracle Agent Memory** | Built the CopilotKit integration/showcase and cookbook: Oracle Agent Spec, LangGraph, durable cross-session recall, and human-approved booking flows. [Code](https://github.com/CopilotKit/CopilotKit/pull/5563) · [Cookbook](https://docs.copilotkit.ai/cookbook/oracle-agent-spec-memory) |
